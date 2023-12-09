@@ -1,3 +1,6 @@
+#AirBnB web dynamic
+This is the web dynamic aspect of the AirBnB project. Here we are requesting our own API, modifying element styles and DOM, making GET request with JQuery Ajax and making POST request with JQuery Ajax. 
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -158,6 +161,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Afua Addae Adjei-Arthur - [Github](https://github.com/afuawonders) / [Twitter](https://twitter.com/Nana_Aphua_A4)
+David Ovalle - [Github](https://github.com/ cutespot3200) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb: Joann Vuong
 ## License
